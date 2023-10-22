@@ -1,0 +1,13 @@
+C:\Users\victor.silva\Documents\Estudos\Udemy\CotacaoDolarWF\CotacaoDolarWF\bin\Debug\CotacaoDolarWF.exe.config
+C:\Users\victor.silva\Documents\Estudos\Udemy\CotacaoDolarWF\CotacaoDolarWF\bin\Debug\CotacaoDolarWF.exe
+C:\Users\victor.silva\Documents\Estudos\Udemy\CotacaoDolarWF\CotacaoDolarWF\bin\Debug\CotacaoDolarWF.pdb
+C:\Users\victor.silva\Documents\Estudos\Udemy\CotacaoDolarWF\CotacaoDolarWF\obj\Debug\CotacaoDolarWF.csproj.AssemblyReference.cache
+C:\Users\victor.silva\Documents\Estudos\Udemy\CotacaoDolarWF\CotacaoDolarWF\obj\Debug\CotacaoDolarWF.Properties.Resources.resources
+C:\Users\victor.silva\Documents\Estudos\Udemy\CotacaoDolarWF\CotacaoDolarWF\obj\Debug\CotacaoDolarWF.csproj.GenerateResource.cache
+C:\Users\victor.silva\Documents\Estudos\Udemy\CotacaoDolarWF\CotacaoDolarWF\obj\Debug\CotacaoDolarWF.csproj.CoreCompileInputs.cache
+C:\Users\victor.silva\Documents\Estudos\Udemy\CotacaoDolarWF\CotacaoDolarWF\obj\Debug\CotacaoDolarWF.exe
+C:\Users\victor.silva\Documents\Estudos\Udemy\CotacaoDolarWF\CotacaoDolarWF\obj\Debug\CotacaoDolarWF.pdb
+C:\Users\victor.silva\Documents\Estudos\Udemy\CotacaoDolarWF\CotacaoDolarWF\obj\Debug\CotacaoDolarWF.FmCotacaoDolar.resources
+C:\Users\victor.silva\Documents\Estudos\Udemy\CotacaoDolarWF\CotacaoDolarWF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\victor.silva\Documents\Estudos\Udemy\CotacaoDolarWF\CotacaoDolarWF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\victor.silva\Documents\Estudos\Udemy\CotacaoDolarWF\CotacaoDolarWF\obj\Debug\CotacaoDolarWF.csproj.CopyComplete
